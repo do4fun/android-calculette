@@ -24,6 +24,8 @@ public class Calculette extends AppCompatActivity implements View.OnClickListene
     // Représentation du nombre actuel
     String number = "";
 
+    //Ceci est un commentaire de test pour GitHub
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
