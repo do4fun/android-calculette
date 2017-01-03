@@ -1,0 +1,7 @@
+#Wed Dec 21 21:41:24 EST 2016
+base.0=E\:\\coursInitAndroid\\ArbicLucCalculette\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c6f3d1a0181e13a9dad70bf632ea466693064a31
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\coursInitAndroid\\ArbicLucCalculette\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a789899ec6e76e4855c606343a2ee163b931f1b9\\classes.dex
+base.1=E\:\\coursInitAndroid\\ArbicLucCalculette\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a789899ec6e76e4855c606343a2ee163b931f1b9
+file.0=E\:\\coursInitAndroid\\ArbicLucCalculette\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c6f3d1a0181e13a9dad70bf632ea466693064a31\\classes.dex

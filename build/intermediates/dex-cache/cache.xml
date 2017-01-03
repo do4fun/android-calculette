@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_80b35230d4f6072cb3401b705e03c91d1863c059\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_f8ad898300968008c5801a338884a8dc512b9c15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_f6c78341f077f684a344929b6db8ab8fbe5c1b2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_660da9fcc7ff94f0b576800630f98839a5e65f1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="207ff03fad2de90bf114f0c0e3376686e5939f79">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c6f3d1a0181e13a9dad70bf632ea466693064a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_e8812867a08fa5fc2acd1c62322cc07b2ce5b0e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_15afab8e68dde2a08a5abbf7273e67cef7fce0e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_ac073981dc25d818ebc908b516dab8e27789e1ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_74ac7a86461bfa493e5bd24d4f9c5b8a0c2bca09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_f3c80f8ba889e8cd91be8ac9cd4d8fc6dbf70fb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ad06a1179d5602c86061744be19090bbcfb702a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51e90c541f2ba5d95b335c159ec37504a2ab80ac">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a789899ec6e76e4855c606343a2ee163b931f1b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_7b57da01e33aead73a4933245f0075570a660ec5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_4b7653347234d4d612890b3be0d0878463673595\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_e20ff5d076802997be7f50d87070bd86002b5124\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8ca208889f595ad39eb4cef98b0a100d822cb7f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\apps\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_faf42f3577113981ac15a64ba732bd66fd4715cc\classes.dex" />
+    </item>
+
+</items>

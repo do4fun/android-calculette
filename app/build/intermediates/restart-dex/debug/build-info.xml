@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="826256492229626"
+    token="4095764243751987413"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="777" />
+    <task
+        name="instant-run-dex"
+        duration="94" />
+    <task
+        name="instant-run-transform"
+        duration="432" />
+    <task
+        name="verifier"
+        duration="41" />
+
+    <artifact
+        location="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="824230781735893"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\coursInitAndroid\ArbicLucCalculette\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="825919837684215"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="826256492229626"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\coursInitAndroid\ArbicLucCalculette\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
